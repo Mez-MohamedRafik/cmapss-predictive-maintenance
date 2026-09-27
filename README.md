@@ -20,4 +20,4 @@ Evaluated against ground truth labels (`RUL_FD001.txt`):
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/cmapss-predictive-maintenance.git](https://github.com/your-username/cmapss-predictive-maintenance.git)
+   git clone [https://github.com/Mez-MohamedRafik/cmapss-predictive-maintenance.git](https://github.com/Med-MohamedRafik/cmapss-predictive-maintenance.git)
