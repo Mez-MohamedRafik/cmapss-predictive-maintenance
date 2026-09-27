@@ -1,6 +1,6 @@
 # ✈️ Turbofan Engine Remaining Useful Life (RUL) Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mez-MohamedRafik/cmapss-predictive-maintenance/blob/main/Engine_Failure_RFR_predict.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mez-MohamedRafik/cmapss-predictive-maintenance/blob/main/Engine Failure RFR_predict.ipynb)
 
 ## 📌 Overview
 An end-to-end machine learning predictive maintenance pipeline built on NASA's C-MAPSS dataset (`FD001`). The model leverages feature engineering on multi-sensor degradation signals to predict the Remaining Useful Life (RUL) of aircraft engines before failure.
