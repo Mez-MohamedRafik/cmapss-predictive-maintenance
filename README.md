@@ -18,6 +18,7 @@ Evaluated against NASA ground truth labels (`RUL_FD001.txt`):
 
 ## 🚀 How to Run
 
+### Option 1: Open Directly in Google Colab (Recommended)
 Click the **Open in Colab** badge above or click [here](https://colab.research.google.com/github/Mez-MohamedRafik/cmapss-predictive-maintenance/blob/main/Engine_Failure_RFR_predict.ipynb) to execute the interactive notebook in your browser.
 
 ### Option 2: Run Locally
